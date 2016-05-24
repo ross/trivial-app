@@ -2,4 +2,4 @@
 
 set -e
 
-python -m SimpleHTTPServer $PORTTO
+python -m SimpleHTTPServer $PORT0
